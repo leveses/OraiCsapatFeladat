@@ -11,3 +11,13 @@ body
 {
     background-color: #e6b8a2;
 }
+.navbar{
+    background-color: #deab90;
+}
+nav a
+{
+    color: rgb(117, 97, 6);
+}
+nav a:hover{
+    color: rgb(20, 17, 48);
+}
