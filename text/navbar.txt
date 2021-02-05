@@ -1,0 +1,13 @@
+<nav class="navbar navbar-expand-lg navbar-light" style="background-color: #deab90;">
+            <a class="navbar-brand" href="index.html">Főoldal</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+            <div class="navbar-nav">
+                <a class="nav-link active" href="faanyagok.html">Laminált padlók<span class="sr-only">(current)</span></a>
+                <a class="nav-link active" href="festekek.html">Festékek</a>
+                <a class="nav-link active" href="rolunk.html">Rólunk</a>
+            </div>
+            </div>
+        </nav>
