@@ -8,7 +8,7 @@ body{
 
 hr{
     width: 10%;
-    border: #343a40 solid 3px;
+    border: #af7c5c solid 3px;
     border-radius: 20px;
 }
 
@@ -16,4 +16,26 @@ img{
     border: 10px solid #d69f7e;
     border-radius: 300px;
     height: 20rem;
+}
+
+.jumbotron{
+    background-color: #d69f7e;
+    text-align: left;
+}
+
+.jumbotron img{
+    float: right;
+    height: 12rem;
+}
+
+table td{
+    border: 2px solid #d69f7e;
+    height: 10vh;
+    width: 10vw;
+    text-align: center;
+}
+
+table img{
+    height: 15vh;
+    float: right;
 }
